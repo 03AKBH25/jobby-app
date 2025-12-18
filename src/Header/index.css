@@ -1,0 +1,46 @@
+.header-cont {
+  background-color: #272727;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-2 {
+  height: 30px;
+  width: 90px;
+  margin-bottom: 30px;
+}
+.nav-options-cont {
+  display: flex;
+  flex-direction: row;
+}
+.option{
+  list-style-type: none;
+}
+.nav-link {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: roboto;
+  color: #cbd5e1;
+  margin-left: 15px;
+  list-style-type: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+.site-img {
+  margin-top: 35px;
+}
+.logout-btn {
+  background-color: #6366f1;
+  color: #fff;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}

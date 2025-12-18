@@ -1,0 +1,26 @@
+.main-cont {
+  display: flex;
+  background-color: black;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found {
+  height: 50vh;
+  width: 60vh;
+}
+.main-head {
+  font-size: 50px;
+  font-weight: bold;
+  color: #b6c5ff;
+  font-family: Roboto;
+  text-align: center;
+  margin: 20px 0px;
+}
+.desc {
+  font-size: 25px;
+  color: white;
+  font-family: Roboto;
+  text-align: center;
+  margin: 20px 0px;
+}

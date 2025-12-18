@@ -1,0 +1,51 @@
+.profile-cont-aniket {
+  background-image: src(
+    'https://assets.ccbp.in/frontend/react-js/profile-bg.png'
+  );
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px 15px;
+}
+.user-img-aniket {
+  height: 25%;
+  width: 25%;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+.head-aniket {
+  font-family: roboto;
+  font-size: 25px;
+  color: #6366f1;
+  margin-bottom: 20px;
+}
+.detail-aniket {
+  font-family: roboto;
+  font-size: 15px;
+  color: #2c364c;
+}
+.retry-container-aniket{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.retry-btn-aniket {
+  background-color: #4f46e5;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 10px;
+  font-family: roboto;
+  font-weight: bold;
+
+  padding: 7px 15px;
+}

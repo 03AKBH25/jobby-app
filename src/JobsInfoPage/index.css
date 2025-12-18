@@ -1,0 +1,65 @@
+.main-cont-aniket {
+  background-color: #475569;
+  height: 100%;
+  border-radius: 10px;
+  padding: 20px;
+}
+.job-head {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: center;
+}
+.head-info-aniket {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+  border-radius: 10px;
+}
+.head-aniket {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+}
+.job-type-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.type-info-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.type-info-aniket {
+  font-family: roboto;
+  color: #fff;
+  font-size: 10px;
+}
+.salary-aniket {
+  font-family: roboto;
+  font-size: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+.desc-head-aniket {
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+  font-family: Roboto;
+}
+.desc-aniket {
+  font-family: roboto;
+  color: #fff;
+  font-size: 15px;
+}
+.line-aniket{
+  margin: 20px 0px;
+  border: none;
+  border-top: 2px solid #cbd5e1;
+}

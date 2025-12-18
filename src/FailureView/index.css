@@ -1,0 +1,30 @@
+.main-cont-aniket {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+}
+.not-found-aniket {
+  height: 50vh;
+  width: 60vh;
+  margin-bottom: 15px;
+  margin-left: 25px;
+}
+.main-head-aniket {
+  font-size: 40px;
+  font-weight: bold;
+  color: #fff;
+  font-family: Roboto;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.desc-aniket {
+  font-size: 20px;
+  color: #fff;
+  font-family: roboto;
+  text-align: center;
+}
